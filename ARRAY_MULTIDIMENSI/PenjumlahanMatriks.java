@@ -1,4 +1,4 @@
-package METHOD;
+package ARRAY_MULTIDIMENSI;
 public class PenjumlahanMatriks {
   public static void main (String[] args) {
       int[][] a= {{1, 2}, {3, 4}};

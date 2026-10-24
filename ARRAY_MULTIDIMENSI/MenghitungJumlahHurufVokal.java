@@ -1,4 +1,6 @@
-package METHOD;
+package ARRAY_MULTIDIMENSI;
+
+
 public class MenghitungJumlahHurufVokal {
     public static void main(String[] args) {
         String kalimat = "Pemrograman Dasar";

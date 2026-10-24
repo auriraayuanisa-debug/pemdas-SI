@@ -1,4 +1,4 @@
-package METHOD;
+package ARRAY_MULTIDIMENSI;
 public class LatihanArrayMultidimensi {
     public static void main(String[] args) {
         String[][][] arr = new String[3][3][5];
